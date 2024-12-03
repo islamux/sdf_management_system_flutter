@@ -1,16 +1,33 @@
-# sdf_management_system_flutter
+# نظام إدارة الموظفين (SDF Management System)
 
-A new Flutter project.
+## وصف المشروع
+تطبيق إدارة الموظفين متطور مبني على Flutter، مصمم لتبسيط عمليات متابعة الموظفين وتسجيل الحضور والغياب بكفاءة عالية.
 
-## Getting Started
+### المميزات الرئيسية
+- 📋 إدارة معلومات الموظفين
+- 🕒 تسجيل الحضور والانصراف
+- 📊 متابعة أيام الغياب
+- 🔒 نظام مصادقة آمن
+- 📱 واجهة مستخدم سهلة الاستخدام
 
-This project is a starting point for a Flutter application.
+### التقنيات المستخدمة
+- Flutter
+- Dart
+- Bloc (State Management)
+- Hive (Local Database)
 
-A few resources to get you started if this is your first Flutter project:
+### متطلبات التشغيل
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## التثبيت
+1. استنساخ المستودع
+2. تثبيت التبعيات: `flutter pub get`
+3. تشغيل التطبيق: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## لقطات الشاشة
+[سيتم إضافة لقطات الشاشة مستقبلاً]
+
+## المساهمة
+مرحباً بالمساهمات! يرجى قراءة دليل المساهمة قبل البدء.
